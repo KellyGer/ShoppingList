@@ -1,2 +1,2 @@
-# ShoppingList
-A program to create a shopping list, school project
+# shoppingList
+A program to create a shopping list, school project.
